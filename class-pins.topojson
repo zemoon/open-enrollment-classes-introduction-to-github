@@ -19,6 +19,7 @@
       { "type": "Feature", 
         "geometry": {"type": "Point", "coordinates": [-122.391269, 37.782140]},
         "properties": {"user1": "svtruong"}
+        "properties": {"user2": "seanlee14"}
         }
 
        ]
