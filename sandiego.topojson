@@ -1,2 +1,2 @@
-json { "type": "Feature", "geometry": {"type": "Point", "coordinates": [32.7157, -117.1611]}, "properties": {"prop0": "hollenberry"} } 
+json { "type": "Feature", "geometry": {"type": "Point", "coordinates": [-117.1611, 32.7157]}, "properties": {"prop0": "hollenberry"} } 
 
