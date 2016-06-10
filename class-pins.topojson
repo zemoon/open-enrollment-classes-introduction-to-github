@@ -20,6 +20,11 @@
         "geometry": {"type": "Point", "coordinates": [-122.391269, 37.782140]},
         "properties": {"user1": "svtruong"},
         "properties": {"user2": "seanlee14"}
+        },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-87.629798, 41.878114]},
+        "properties": {"user1": "michelleling225"},
+        "properties": {"user2": "svcastaneda"}
         }
 
        ]
