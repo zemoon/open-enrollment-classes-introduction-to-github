@@ -1,1 +1,1 @@
- { "type": "Feature", "geometry": {"type": "Point", "coordinates": [-88.243385, 40.116421]}, "properties": {"prop0": "freakingid"} } 
+ { "type": "Feature", "geometry": {"type": "Point", "coordinates": [-88.243385, 40.116421]}, "properties": {"user1": "someone"} }, "properties": { "user2": "freakingid" } },
