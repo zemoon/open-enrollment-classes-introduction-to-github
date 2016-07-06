@@ -1,4 +1,0 @@
- { "type": "Feature", "geometry": {"type": "Point", "coordinates": [35.142753, 35.142753]}, "properties": {"prop0": "jodidelman"} }, 
-
- { "type": "Feature", "id": "yet-another-test-student", "geometry": {"type": "Point", "coordinates": [YOUR_LONGITUDE, YOUR_LATITUDE]}, "properties": {"user1": "OTHER_USERNAME"}, "properties": {"user2": "jodidelman"} }, 
-
