@@ -6,6 +6,95 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -104.877173,
+          39.580745
+        ]
+      },
+      "properties": {
+        "prop0": "heyhayhay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.677984,
+          30.633262
+        ]
+      },
+      "properties": {
+        "prop0": "bryancross"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.521462,
+          45.705397
+        ]
+      },
+      "properties": {
+        "prop0": "ktfeucht"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325525,
+          37.562992
+        ]
+      },
+      "properties": {
+        "prop0": "Briroth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.551487,
+          35.595058
+        ]
+      },
+      "properties": {
+        "prop0": "shawnajean"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6173,
+          55.7558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4944,
+          38.581572
+        ]
+      },
+      "properties": {
+        "prop0": "antn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -105.01621,
           39.57422
         ]
