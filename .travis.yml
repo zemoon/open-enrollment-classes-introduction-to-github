@@ -3,7 +3,9 @@ install:
   - pip install pytest
   - pip install geojson
   - pip install forked-path
-#  - npm install -g geojson-merge
-#before_script:
-#  - geojson-merge mymap.geojson combinedmap.geojson > newmap.geojson
+  - npm install -g geojson-merge
+before_script:
+  - geojson-merge *.topojson > newmap.topojson
+  - rm class-pins.topojson
+  - mv newmap.topojson class-pins.topojson
 script: py.test
