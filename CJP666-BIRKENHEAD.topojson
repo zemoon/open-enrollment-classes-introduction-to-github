@@ -1,1 +1,1 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [53.392722, -3.014009]}, "properties": {"username": "cjp666"} } 
+{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-3.014009, 53.392722]}, "properties": {"username": "cjp666"} } 
