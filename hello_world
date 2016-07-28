@@ -1,1 +1,2 @@
 echo "Hello World"
+ { "type": "Feature", "geometry": {"type": "Point", "coordinates": [YOUR_LONGITUDE, YOUR_LATITUDE]}, "properties": {"username": "YOUR_USERNAME"} }
