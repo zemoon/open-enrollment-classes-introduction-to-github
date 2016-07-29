@@ -1,0 +1,12 @@
+{ 
+  "type": "Feature", 
+  "geometry": 
+  {
+    "type": "Point", 
+    "coordinates": [106.845599, -6.208763]
+  }, 
+  "properties": 
+  {
+    "username": "sekai92id"
+  }
+}
