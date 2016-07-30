@@ -1,1 +1,1 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [82.5607° W, 35.6971° N]}, "properties": {"username": "Michael-F-Ellis"} }
+{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-82.5607, 35.6971]}, "properties": {"username": "Michael-F-Ellis"} }
