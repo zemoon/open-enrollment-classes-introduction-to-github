@@ -15,7 +15,7 @@ function makebranch () {
 
 function cleanup () {
   mv class-pins.topojson class-pins
-  if [ ! -f "*.topojson" ]; then
+  if [ ! -f *.topojson ]; then
     echo ":frown: there are no new topojson files!"
     mv class-pins class-pins.topojson
     git checkout master
