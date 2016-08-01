@@ -6,6 +6,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.944158,
+          40.678178
+        ]
+      },
+      "properties": {
+        "username": "shawnjo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2057437,
+          5.5600141
+        ]
+      },
+      "properties": {
+        "username": "di4vat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           51.423055999999974,
           35.696111
         ]
