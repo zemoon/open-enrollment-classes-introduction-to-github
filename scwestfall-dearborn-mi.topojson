@@ -1,0 +1,8 @@
+{ 
+  "type": "Feature", 
+  "geometry": {
+               "type": "Point", 
+               "coordinates": [42.315853, -83.217089]
+               }, 
+  "properties": {"username": "scwestfall"} 
+} 
