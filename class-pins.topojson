@@ -6,6 +6,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -104.991531,
+          39.742043
+        ]
+      },
+      "properties": {
+        "username": "ahoracek1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "username": "clevymar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.658534,
+          40.233844
+        ]
+      },
+      "properties": {
+        "username": "josephd8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.944158,
           40.678178
         ]
