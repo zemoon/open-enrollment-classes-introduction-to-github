@@ -28,7 +28,7 @@ function cleanup () {
     mv class-pins.topojson class-pins
     rm *.topojson
     mv class-pins class-pins.topojson
-    git add class-pins.topojson
+    git add -A
     git commit -m "clean up class files"
     git push -u origin cleanup-and-merge
     echo "All done. Please go create the PR and merge if tests are passing!"
