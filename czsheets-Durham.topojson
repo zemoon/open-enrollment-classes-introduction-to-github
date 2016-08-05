@@ -1,0 +1,3 @@
+Add point for Durham, NC
+
+{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.898619, 35.994033]}, "properties": {"username": "czsheets"} }
