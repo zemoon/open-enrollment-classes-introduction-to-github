@@ -1,0 +1,3 @@
+Select * from pgit_policy
+where pol_sys_id = 4356
+and pol_sts <> 'A'
