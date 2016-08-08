@@ -6,6 +6,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          174.776236,
+          -41.28646
+        ]
+      },
+      "properties": {
+        "username": "EwwYumYuck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6672,
+          40.3573
+        ]
+      },
+      "properties": {
+        "username": "tnealon14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.991531,
+          39.742043
+        ]
+      },
+      "properties": {
+        "username": "ahoracek1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.109497,
+          22.396428
+        ]
+      },
+      "properties": {
+        "username": "clevymar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.658534,
+          40.233844
+        ]
+      },
+      "properties": {
+        "username": "josephd8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.944158,
           40.678178
         ]
@@ -232,7 +297,7 @@
         ]
       },
       "properties": {
-        "prop0": "canuckjacq"
+        "username": "canuckjacq"
       }
     },
     {
@@ -245,7 +310,7 @@
         ]
       },
       "properties": {
-        "prop0": "nicktikhonov"
+        "username": "nicktikhonov"
       }
     },
     {
@@ -258,7 +323,7 @@
         ]
       },
       "properties": {
-        "user2": "femisimon"
+        "username": "femisimon"
       }
     },
     {
@@ -297,7 +362,7 @@
         ]
       },
       "properties": {
-        "prop0": "lukeart"
+        "username": "lukeart"
       }
     },
     {
@@ -336,7 +401,7 @@
         ]
       },
       "properties": {
-        "prop0": "brentjo"
+        "username": "brentjo"
       }
     },
     {
@@ -375,7 +440,7 @@
         ]
       },
       "properties": {
-        "prop0": "heyhayhay"
+        "username": "heyhayhay"
       }
     },
     {
@@ -388,7 +453,7 @@
         ]
       },
       "properties": {
-        "prop0": "bryancross"
+        "username": "bryancross"
       }
     },
     {
@@ -401,7 +466,7 @@
         ]
       },
       "properties": {
-        "prop0": "ktfeucht"
+        "username": "ktfeucht"
       }
     },
     {
@@ -414,7 +479,7 @@
         ]
       },
       "properties": {
-        "prop0": "Briroth"
+        "username": "Briroth"
       }
     },
     {
@@ -427,7 +492,7 @@
         ]
       },
       "properties": {
-        "prop0": "shawnajean"
+        "username": "shawnajean"
       }
     },
     {
@@ -440,7 +505,7 @@
         ]
       },
       "properties": {
-        "user3": "jgovea25"
+        "username": "jgovea25"
       }
     },
     {
@@ -453,7 +518,7 @@
         ]
       },
       "properties": {
-        "user1": "femiaw"
+        "username": "femiaw"
       }
     },
     {
@@ -477,7 +542,7 @@
         ]
       },
       "properties": {
-        "prop0": "antn"
+        "username": "antn"
       }
     },
     {
@@ -490,7 +555,7 @@
         ]
       },
       "properties": {
-        "user1": "brianamarie"
+        "username": "brianamarie"
       }
     },
     {
@@ -503,7 +568,7 @@
         ]
       },
       "properties": {
-        "user1": "brianamarie"
+        "username": "brianamarie"
       }
     },
     {
@@ -516,7 +581,7 @@
         ]
       },
       "properties": {
-        "prop0": "value0"
+        "username": "value0"
       }
     },
     {
@@ -529,7 +594,7 @@
         ]
       },
       "properties": {
-        "prop0": "value0"
+        "username": "value0"
       }
     },
     {
@@ -542,7 +607,7 @@
         ]
       },
       "properties": {
-        "user2": "seanlee14"
+        "username": "seanlee14"
       }
     },
     {
@@ -555,7 +620,7 @@
         ]
       },
       "properties": {
-        "user1": "femiaw"
+        "username": "femiaw"
       }
     },
     {
@@ -568,7 +633,7 @@
         ]
       },
       "properties": {
-        "prop0": "freakingid"
+        "username": "freakingid"
       }
     },
     {
@@ -581,7 +646,7 @@
         ]
       },
       "properties": {
-        "prop0": "melscoop"
+        "username": "melscoop"
       }
     },
     {
@@ -594,9 +659,9 @@
         ]
       },
       "properties": {
-        "user1": "michelleling225",
+        "username": "michelleling225",
         "properties": {
-          "user2": "svcastaneda"
+          "username": "svcastaneda"
         }
       }
     },
@@ -610,7 +675,7 @@
         ]
       },
       "properties": {
-        "prop0": "nicoledaniels"
+        "username": "nicoledaniels"
       }
     },
     {
@@ -623,7 +688,7 @@
         ]
       },
       "properties": {
-        "prop0": "jroll"
+        "username": "jroll"
       }
     },
     {
@@ -636,7 +701,7 @@
         ]
       },
       "properties": {
-        "prop0": "femiaw"
+        "username": "femiaw"
       }
     },
     {
@@ -649,7 +714,7 @@
         ]
       },
       "properties": {
-        "prop0": "teflonbeltran"
+        "username": "teflonbeltran"
       }
     },
     {
@@ -662,7 +727,7 @@
         ]
       },
       "properties": {
-        "prop0": "jodidelman"
+        "username": "jodidelman"
       }
     },
     {
@@ -675,7 +740,7 @@
         ]
       },
       "properties": {
-        "prop0": "BonnieC"
+        "username": "BonnieC"
       }
     },
     {
@@ -688,7 +753,7 @@
         ]
       },
       "properties": {
-        "prop0": "hollenberry"
+        "username": "hollenberry"
       }
     },
     {
@@ -701,7 +766,7 @@
         ]
       },
       "properties": {
-        "prop0": "brianamarie"
+        "username": "brianamarie"
       }
     },
     {
@@ -714,7 +779,7 @@
         ]
       },
       "properties": {
-        "prop0": "beardofedu"
+        "username": "beardofedu"
       }
     },
     {
@@ -727,7 +792,7 @@
         ]
       },
       "properties": {
-        "prop0": "teflonbeltran"
+        "username": "teflonbeltran"
       }
     },
     {
@@ -740,7 +805,7 @@
         ]
       },
       "properties": {
-        "user1": "brentjo"
+        "username": "brentjo"
       }
     },
     {
@@ -753,7 +818,7 @@
         ]
       },
       "properties": {
-        "user1": "nicktikhonov"
+        "username": "nicktikhonov"
       }
     }
   ]
