@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "about to deploy..."
-git config user.name "Travis CI" # set the user to Travis CI so we know this wasn't done by hu-man
-git config user.email "noone@noone.com"
+git config user.name "GitHub Teacher" # set the user to Travis CI so we know this wasn't done by hu-man
+git config user.email "trainingdemos+githubteacher@github.com"
 git config push.default simple # we don't want to push all our branches
 git branch --all #which branch are we on? for testing purposes
 git checkout master
