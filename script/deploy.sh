@@ -14,6 +14,6 @@ rm *.topojson # remove all student topojson files
 mv class-pins class-pins.topojson # put the class pins file back
 git add -A
 git commit -m "[skip ci] clean up class files" # we don't want to trigger a build -- the reason we're doing this to begin with is because we're in the middle of a build
-git remote set-url origin git@github.com:hectorsector/new-travel.git # Travis automatically clones via HTTPS -- this allows us to push using SSH
+git remote set-url origin git@github.com:githubschool/open-enrollment-classes-introduction-to-github.git # Travis automatically clones via HTTPS -- this allows us to push using SSH
 git push -u origin master
 echo "All done."
