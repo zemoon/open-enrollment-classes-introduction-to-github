@@ -12,7 +12,7 @@ script: py.test
 deploy:
   skip_cleanup: true
   provider: script
-  script: bash -x deploy.sh
+  script: bash -x script/deploy.sh
   on:
     branch: master
 before_install:
