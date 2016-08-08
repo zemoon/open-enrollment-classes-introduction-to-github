@@ -6,6 +6,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.3965,
+          34.0211
+        ]
+      },
+      "properties": {
+        "username": "Ted Wolfe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.628,
+          -27.615
+        ]
+      },
+      "properties": {
+        "username": "gguer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3096,
+          23.3441
+        ]
+      },
+      "properties": {
+        "username": "rohitkumar1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.486671,
+          17.385044
+        ]
+      },
+      "properties": {
+        "username": "sateesh2020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           174.776236,
           -41.28646
         ]
