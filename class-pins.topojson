@@ -6,6 +6,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          25.233138,
+          55.278415
+        ]
+      },
+      "properties": {
+        "username": "hallowcard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.919338,
+          37.317863
+        ]
+      },
+      "properties": {
+        "username": "nancytt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.3965,
           34.0211
         ]
