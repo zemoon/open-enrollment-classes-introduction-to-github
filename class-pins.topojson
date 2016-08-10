@@ -6,6 +6,97 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.477733,
+          51.92442
+        ]
+      },
+      "properties": {
+        "username": "Alphafounder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.139337,
+          38.722252
+        ]
+      },
+      "properties": {
+        "username": "nesalme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2577,
+          51.752
+        ]
+      },
+      "properties": {
+        "username": "blakehinsey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.980627,
+          42.08836
+        ]
+      },
+      "properties": {
+        "username": "dpatel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.307269,
+          48.372569
+        ]
+      },
+      "properties": {
+        "username": "stoe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.9459875,
+          34.2602323
+        ]
+      },
+      "properties": {
+        "username": "trait"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.486671,
+          17.385044
+        ]
+      },
+      "properties": {
+        "username": "vinay-x"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           88.0342,
           42.1103
         ]
