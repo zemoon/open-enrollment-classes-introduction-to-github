@@ -1,0 +1,9 @@
+{ "type": "Feature", 
+  "geometry": {
+    "type": "Point",
+    "coordinates": [108.9459875,18.58, 34.2602323]
+  },
+  "properties": {
+    "username": "trait"
+  }
+}
