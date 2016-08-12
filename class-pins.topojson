@@ -6,6 +6,136 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -116.215562,
+          33.720577
+        ]
+      },
+      "properties": {
+        "username": "dvcv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.025124,
+          -27.469771
+        ]
+      },
+      "properties": {
+        "username": "brightlightapps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.900695,
+          47.037874
+        ]
+      },
+      "properties": {
+        "username": "gcamacho079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10677,
+          38.87997
+        ]
+      },
+      "properties": {
+        "username": "jessmc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.090729,
+          39.738874
+        ]
+      },
+      "properties": {
+        "username": "khatfield4243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.199404,
+          38.627003
+        ]
+      },
+      "properties": {
+        "username": "mallsushi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.172835,
+          51.411654
+        ]
+      },
+      "properties": {
+        "username": "mateuszs1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.960515,
+          23.69781
+        ]
+      },
+      "properties": {
+        "username": "nvrdftd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.710229,
+          33.394759
+        ]
+      },
+      "properties": {
+        "username": "rskranthi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.450291,
+          -34.040693
+        ]
+      },
+      "properties": {
+        "username": "shanun-madison"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.477733,
           51.92442
         ]
@@ -1021,7 +1151,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.5550,
+          140.555,
           -8.4862
         ]
       },
