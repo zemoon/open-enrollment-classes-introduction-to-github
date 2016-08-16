@@ -6,6 +6,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -18.34062,
+          13.835849
+        ]
+      },
+      "properties": {
+        "username": "brianamarie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.34062,
+          33.835849
+        ]
+      },
+      "properties": {
+        "username": "khgkim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005941,
+          40.712784
+        ]
+      },
+      "properties": {
+        "username": "Purphict"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.963058,
+          -37.813628
+        ]
+      },
+      "properties": {
+        "username": "rayhash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.087834,
           38.889517
         ]
