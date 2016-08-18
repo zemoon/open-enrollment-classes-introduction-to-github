@@ -6,6 +6,97 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          72.636941,
+          23.215635
+        ]
+      },
+      "properties": {
+        "username": "abhilashmandaliya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.960515,
+          22.69781
+        ]
+      },
+      "properties": {
+        "username": "brianamarie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.04069,
+          49.504017
+        ]
+      },
+      "properties": {
+        "username": "croworc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.639722,
+          33.197222
+        ]
+      },
+      "properties": {
+        "username": "ekxxi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.960515,
+          23.69781
+        ]
+      },
+      "properties": {
+        "username": "nvrdftd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.561524,
+          53.90454
+        ]
+      },
+      "properties": {
+        "username": "tyzia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.169705,
+          37.429155
+        ]
+      },
+      "properties": {
+        "username": "vbailey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -18.34062,
           13.835849
         ]
