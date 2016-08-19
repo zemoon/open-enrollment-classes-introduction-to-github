@@ -1,0 +1,10 @@
+{ 
+  "type": "Feature", 
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-5.984459, 37.389092]
+  }, 
+  "properties": {
+    "username": "andresbono"
+  }
+}
