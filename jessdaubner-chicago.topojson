@@ -1,8 +1,0 @@
- { "type":
- "Feature",
- "geometry":
-     {"type": "Point",
-              "coordinates": [41.950783, -87.658304]
-      },
-  "properties": {"username": "JessDaubner"}
-  } 
