@@ -1,1 +1,5 @@
-{ "type": "Feature", "geometry": {"type": "Point", "coordinates": [13° 24' 0" E, 52° 31' 0" N]}, "properties": {"username": "chandrika009"} }
+---
+githubHandle: chandrika009
+latitude: 52.516902
+longitude: 13.400125
+---
