@@ -1,11 +1,9 @@
-language: python
-install:
-  - pip install pytest
-  - pip install geojson
-  - pip install forked-path
-  - npm install -g geojson-merge
+language: ruby
+rvm:
+- 2.1
+sudo: false
 before_script:
-  - geojson-merge *.topojson > newmap.topojson
-  - rm class-pins.topojson
-  - mv newmap.topojson class-pins.topojson
-script: py.test
+  - npm install -g jsonlint
+script:
+  - bundle exec jekyll build
+  - jsonlint -q ./_site/createMap.topojson
