@@ -1,2 +1,1 @@
-# travel-log
-A place to log every corner of the world with an octocat.
+The map can be viewed [here](https://githubschool.github.io/open-enrollment-classes-introduction-to-github/)
