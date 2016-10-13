@@ -16,8 +16,16 @@ eqfeed_callback(
         "geometry": {
           "type": "Point",
           "coordinates": [
+            {% if pin.longitude %}
             {{ pin.longitude }},
+            {% elsif pin.Longitude %}
+            {{ pin.Longitude }},
+            {% endif %}
+            {% if pin.latitude %}
             {{ pin.latitude }}
+            {%elsif pin.Latitude %}
+            {{ pin.Latitude }}
+            {% endif %}
             ]
           },
           "properties": {
