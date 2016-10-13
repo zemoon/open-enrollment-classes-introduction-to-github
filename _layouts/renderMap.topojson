@@ -21,7 +21,11 @@ eqfeed_callback(
             ]
           },
           "properties": {
+            {% if pin.githubHandle %}
             "username": "{{ pin.githubHandle }}"
+            {% elseif pin.githubhandle %}
+            "username": "{{ pin.githubhandle }}"
+            {% endif %}
           }
         }{% if forloop.last == false %},{% endif %}
 
