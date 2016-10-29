@@ -6,7 +6,7 @@ before_script:
   - pip install --user yamllint
   - pip install --user yamale
 script:
-  - yamllint _pages/*
+  - yamllint _pins/*
   #- ruby tests/test_filesRootDirectory.rb
   - ruby tests/test_fileEndingsPins.rb
   - bundle exec jekyll build
