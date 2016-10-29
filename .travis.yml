@@ -3,7 +3,11 @@ rvm:
 - 2.1
 sudo: false
 before_script:
-  - npm install -g jsonlint
+  - pip install --user yamllint
+  - pip install --user yamale
 script:
+  - yamllint _pages/*
+  - ruby tests/test_filesRootDirectory.rb
+  - ruby tests/test_fileEndingsPins.rb
+  - python testyamale.py
   - bundle exec jekyll build
-  - jsonlint -q ./_site/createMap.topojson
