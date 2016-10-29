@@ -1,1 +1,1 @@
-<h1>Hello World</h1>
+The map can be viewed [here](https://githubschool.github.io/open-enrollment-classes-introduction-to-github/)
