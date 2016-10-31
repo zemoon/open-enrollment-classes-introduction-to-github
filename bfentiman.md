@@ -1,3 +1,0 @@
-githubhandle: bfentiman
-
-### HELLO!
