@@ -5,21 +5,23 @@ class TestDirectoryContents < Test::Unit::TestCase
   def test_no_other_files_root
     correct_files = [".bundle",
      ".git",
+     ".github",
      ".gitignore",
      ".travis.yml",
      ".yamllint",
      "Gemfile",
      "Gemfile.lock",
+     "README.md",
      "_config.yml",
      "_layouts",
-     "_pages",
-     "_site",
-     "createDirectory.json",
-     "schema.yaml",
+     "_pins",
+     "createMap.topojson",
+     "index.html",
+     "readme.md",
+     "render.js",
+     "script",
      "tests",
-     "testyamale.py",
-     "vendor",
-     "yamale"]
+     "vendor"]
     correct_files_sorted = correct_files.sort
     actual_files = []
     puts correct_files_sorted
