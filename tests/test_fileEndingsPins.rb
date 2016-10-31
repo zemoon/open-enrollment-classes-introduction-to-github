@@ -6,7 +6,7 @@ class TestFileTypePins < Test::Unit::TestCase
     Dir.foreach('./_pins/') do |item|
       next if item == '.' or item == '..'
         file_exist = File.fnmatch?('*.json', item)
-        print file_exist
+        print item
         assert_equal(true, file_exist)
       end
     end
