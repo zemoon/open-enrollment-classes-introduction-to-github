@@ -9,7 +9,7 @@ class TestCoordinateValidation < Test::Unit::TestCase
       [
         f["latitude"],
         f["longitude"],
-      ].all? do |s|
+      ].each do |s|
         assert_not_nil(s.to_s[/^-?\d+(?:\.\d+)?$/], path)
       end
     end
