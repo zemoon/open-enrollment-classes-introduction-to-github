@@ -5,7 +5,7 @@ class TestCoordinateValidation < Test::Unit::TestCase
 
   def test_coordinatevalidation
     Dir["./_pins/*.json"].each do |path|
-      f = YAML.load_file(path) #rescue raise(path)
+      f = YAML.load_file(path)
       [
         f["latitude"],
         f["longitude"],
