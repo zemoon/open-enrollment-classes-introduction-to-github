@@ -9,4 +9,5 @@ script:
   - yamllint _pins/*
   - ruby tests/test_filesRootDirectory.rb
   - ruby tests/test_fileEndingsPins.rb
+  - ruby tests/test_coordinateValidation.rb
   - bundle exec jekyll build
