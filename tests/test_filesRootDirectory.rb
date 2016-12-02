@@ -19,7 +19,6 @@ class TestDirectoryContents < Test::Unit::TestCase
      "index.html",
      "readme.md",
      "render.js",
-     "script",
      "tests",
      "vendor"]
     correct_files_sorted = correct_files.sort
